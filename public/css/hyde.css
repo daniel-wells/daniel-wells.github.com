@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
 
@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "PT Sans", serif;
-  font-size: 3.25rem;
+  font-size: 3rem;
 }
 
 /* Sidebar nav */
