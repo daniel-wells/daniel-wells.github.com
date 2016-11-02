@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,7 +10,7 @@ title:            Daniel Wells
 tagline:          'DPhil Candidate in Genomic Medicine and Statistics'
 description:      ''
 url:              http://www.danielwells.me
-baseurl:          /
+baseurl:          /hyde/
 
 author:
   name:           'Daniel Wells'
