@@ -71,7 +71,7 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a {
+.sidebar a:link, .sidebar a:visited {
   color: #fff;
 }
 
@@ -95,6 +95,7 @@ html {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   color: #ac4142;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
