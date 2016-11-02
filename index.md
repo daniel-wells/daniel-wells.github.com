@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daniel Wells
+title: Home
 ---
 
 I am currently studying for a DPhil in Genomic Medicine and Statistics at the Wellcome Trust Centre for Human Genetics, University of Oxford.
