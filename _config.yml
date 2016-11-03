@@ -10,7 +10,7 @@ title:            Daniel Wells
 tagline:          'DPhil Candidate in Genomic Medicine and Statistics'
 description:      'Daniel Wells is a DPhil student in Genomic Medicine and Statistics at the Wellcome Trust Center for Human Genetics, University of Oxford.'
 url:              http://www.danielwells.me
-baseurl:          /hyde/
+baseurl:          /
 
 author:
   name:           'Daniel Wells'
